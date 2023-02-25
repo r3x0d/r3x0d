@@ -16,7 +16,8 @@ I'm Web & Mobile App developer + designer from Germany.<br><br>- 🔭 I’m curr
 ![](https://github-profile-trophy.vercel.app/?username=R4wand-krd&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=R4wand-krd&icon=2&color=0)](https://visitcount.itsvg.in)
+
+[![](https://komarev.com/ghpvc/?username=r4wand-krd&label=Profile%20views&color=0e75b6&style=flat)](https://r4wand.eu.org)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/de_krd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rawandtech) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/de_krd) 
