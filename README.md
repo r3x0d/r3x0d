@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Web & Mobile App developer + designer from Germany.<br><br>- 🔭 I’m currently working on [AlphabetMitRawand](https://github.com/AlphabetMitRawand)<br>- 🌱 I’m currently learning **Flutter, JavaScript**<br>- 🤝 I’m looking for help with [https://github.com/AlphabetMitRawand](https://github.com/AlphabetMitRawand)<br>- 👨‍💻 All of my projects are available at [https://r4wand.eu.org](https://r4wand.eu.org)<br>- 📝 I regularly write articles on [https://www.codinglanguagetexts.eu.org/](https://www.codinglanguagetexts.eu.org/)<br>- 💬 Ask me about **Flutter, JavaScript, CSS,**<br>- 📫 How to reach me **info.rawandkhalid@gmail.com**<br>- 📄 Know about my experiences [https://r4wand.eu.org](https://r4wand.eu.org)
-
+I'm Web & Mobile App developer + designer from Germany.<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/htmlgamekurd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/de.krd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@de_krd) 
