@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rawand</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 <div align="center">
   <img src="https://wakatime.com/badge/user/7b1cde25-1c85-4233-ae84-7cfb34197e47.svg" alt="Total time codee" />
   <img src="https://komarev.com/ghpvc/?username=itsr4wand&label=Profile%20views&color=0e75b6&style=flat&base=1586" alt="itsr4wand" />
