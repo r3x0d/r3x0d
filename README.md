@@ -3,6 +3,7 @@
   <a href="https://wakatime.com/@7b1cde25-1c85-4233-ae84-7cfb34197e47"><img src="https://wakatime.com/badge/user/7b1cde25-1c85-4233-ae84-7cfb34197e47.svg" alt="Total time coded since May 8 2023" /></a>
   <img src="https://komarev.com/ghpvc/?username=itsr4wand&label=Profile%20views&color=0e75b6&style=flat&base=1586" alt="itsr4wand" />
   <a href="https://paypal.me/rawandtech"><img src="https://img.shields.io/badge/donate-PayPal-blue" alt="PayPal" /></a>
+  <a href="https://status.rawandev.top/"><img src="https://img.shields.io/badge/Uptime-status.rawandev.top-blue" alt="Uptime" /></a>
 </div>
 <br>
 
