@@ -54,4 +54,4 @@
 
 
 <h2>Kurdistan Profile Maker</h2>
-> <a href='https://ppmrawandev.top/'>ppm.rawandev.top</a>
+> <a href='https://ppm.rawandev.top/'>ppm.rawandev.top</a>
