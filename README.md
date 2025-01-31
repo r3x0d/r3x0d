@@ -8,6 +8,7 @@
 > ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 > ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
 > ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)
+> ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 
 > ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=wordpress)
 > ![Drupal](https://img.shields.io/badge/-Drupal-black?style=for-the-badge&logo=drupal)
