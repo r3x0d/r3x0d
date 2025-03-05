@@ -2,7 +2,6 @@
 
 ![wakatime](https://wakatime.com/badge/user/7b1cde25-1c85-4233-ae84-7cfb34197e47.svg)
 ![views](https://komarev.com/ghpvc/?username=itsr4wand&label=Profile_views&color=0e75b6&style=flat&base=1586)
-![uptime](https://img.shields.io/badge/Uptime-status.rawandev.top-blue)
 
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 > ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
