@@ -18,4 +18,5 @@
 > ![Appwrite.io](https://img.shields.io/badge/-Appwrite.io-black?style=for-the-badge&logo=Appwrite)
 
 wakatime:
+<br/>
 ![wakatime](https://wakatime.com/share/@itsr4wand/1557bdda-89b5-402f-92de-ac3eca7fb203.svg)
