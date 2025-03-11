@@ -16,6 +16,7 @@
 
 > ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=for-the-badge&logo=google-cloud)
 > ![Appwrite.io](https://img.shields.io/badge/-Appwrite.io-black?style=for-the-badge&logo=Appwrite)
+> ![DigitalOcean.com](https://img.shields.io/badge/-DigitalOcean.io-black?style=for-the-badge&logo=DigitalOcean)
 
 wakatime:
 <br/>
