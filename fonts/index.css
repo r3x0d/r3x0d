@@ -1,9 +1,9 @@
  @font-face {
         font-family: "Rabar_021";
-        src: url("./Rabar_021.eot"); /* IE9 Compat Modes */
-        src: url("./Rabar_021.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-            url("./Rabar_021.ttf") format("truetype"), /* Safari, Android, iOS */
-            url("./Rabar_021.woff") format("woff"); /* Modern Browsers */
+        src: url("https://github.com/itsr4wand/itsr4wand/raw/refs/heads/main/fonts/Rabar_021.eot"); /* IE9 Compat Modes */
+        src: url("https://github.com/itsr4wand/itsr4wand/raw/refs/heads/main/fonts/Rabar_021.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+            url("https://github.com/itsr4wand/itsr4wand/raw/refs/heads/main/fonts/Rabar_021.ttf") format("truetype"), /* Safari, Android, iOS */
+            url("https://github.com/itsr4wand/itsr4wand/raw/refs/heads/main/fonts/Rabar_021.woff") format("woff"); /* Modern Browsers */
         font-weight: normal;
         font-style: normal;
         }
