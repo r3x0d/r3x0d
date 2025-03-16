@@ -1,1 +1,9 @@
-@font-face{font-family:'jAWAD SF-Droob';src:url('./jAWADSFDroob.woff2') format('woff2'),url('./jAWADSFDroob.woff') format('woff');font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:'jAWAD SF-Droob';src:url('./jAWADSFDroob-Bold.woff2') format('woff2'),url('./jAWADSFDroob-Bold.woff') format('woff');font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:'jAWAD SF-Droob';src:url('./jAWADSFDroob-Black.woff2') format('woff2'),url('./jAWADSFDroob-Black.woff') format('woff');font-weight:900;font-style:normal;font-display:swap}
+ @font-face {
+        font-family: "Rabar_021";
+        src: url("./Rabar_021.eot"); /* IE9 Compat Modes */
+        src: url("./Rabar_021.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+            url("./Rabar_021.ttf") format("truetype"), /* Safari, Android, iOS */
+            url("./Rabar_021.woff") format("woff"); /* Modern Browsers */
+        font-weight: normal;
+        font-style: normal;
+        }
