@@ -20,4 +20,4 @@
 
 wakatime:
 <br/>
-![wakatime](https://wakatime.com/share/@itsr4wand/1557bdda-89b5-402f-92de-ac3eca7fb203.svg)
+![wakatime](https://wakatime.com/share/@rawand_tech/1557bdda-89b5-402f-92de-ac3eca7fb203.svg)
