@@ -18,6 +18,4 @@
 > ![Appwrite.io](https://img.shields.io/badge/-Appwrite.io-black?style=for-the-badge&logo=Appwrite)
 > ![DigitalOcean.com](https://img.shields.io/badge/-DigitalOcean.io-black?style=for-the-badge&logo=DigitalOcean)
 
-wakatime:
-<br/>
-![wakatime](https://wakatime.com/share/@rwd-lol/1557bdda-89b5-402f-92de-ac3eca7fb203.svg)
+![wakatime](https://wakatime.com/share/@rwd_lol/b6641cb9-20d1-442f-b5d1-f76246fd5a2c.svg)
