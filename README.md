@@ -6,9 +6,11 @@
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 > ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
 > ![Python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python)
+> ![Dart](https://img.shields.io/badge/-dart-black?style=for-the-badge&logo=dart)
 
-> ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)
 > ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+> ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)
+> ![Laravel](https://img.shields.io/badge/-laravel-black?style=for-the-badge&logo=laravel)
 
 > ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=wordpress)
 > ![Drupal](https://img.shields.io/badge/-Drupal-black?style=for-the-badge&logo=drupal)
